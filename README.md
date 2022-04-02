@@ -25,10 +25,10 @@ O seu principal objetivo é refatorar uma página para listagem de filmes de aco
 
 # :clipboard: To Do
 
-- [x] Adicionar uma nova tarefa
-- [x] Remover uma tarefa
-- [x] Marcar e desmarcar uma tarefa como concluída
-- [x] Testes no Front-end 
+- [x] A aplicação possui apenas uma funcionalidade principal que é a listagem de filmes;
+- [x] Na sidebar é possível selecionar qual categoria de filmes deve ser listada;
+- [x] A primeira categoria da lista (que é "Ação") já deve começar como marcada;
+- [x] O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
 # :wrench: Instalação e uso
 
