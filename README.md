@@ -16,12 +16,12 @@ O seu principal objetivo é refatorar uma página para listagem de filmes de aco
 # :rocket: Tecnologias
 
 - [React](https://pt-br.reactjs.org/)
+- [React Feather](https://github.com/feathericons/react-feather#readme)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [JSON Server](https://github.com/typicode/json-server)
 - [Typescript](https://www.typescriptlang.org/)
 - [Webpack](https://webpack.js.org/)
 - [Sass](https://sass-lang.com/)
-- [Jest](https://jestjs.io/pt-BR/)
-- [Testing Library](https://testing-library.com/)
 
 # :clipboard: To Do
 
@@ -41,6 +41,9 @@ cd watchme
 
 # Instale as dependências
 yarn
+
+# Execute o servidor fake
+yarn server
 
 # Execute aplicação
 yarn dev
